@@ -1,0 +1,30 @@
+# Railway Reservation System
+
+## Overview
+The Railway Reservation System is a platform designed to enhance the efficiency of railway ticketing processes. 
+The system provides a user-friendly interface for passengers to book, cancel, and inquire about train tickets. 
+It also facilitates the management of seat availability, reservation charts, and other crucial information for both passengers and railway staff. 
+It allows passengers to navigate, reserve, and manage their seats within the domain of a singular train.
+
+## Features
+**Ticket Booking**: Users can view seat availability, and book tickets.
+**Ticket reservation**: Users can reserve seat based on age 
+**Cancellation**: Easy cancellation of booked tickets with appropriate refund policies.
+
+## Technologies Used
+**Programming Language: C
+**Data Structures used:
+  >Arrays : The code uses integer and character arrays to store relevant information about  passengers and trains.
+  >Linked Lists: The code utilizes linked lists to manage both trains and passenger information efficiently. 
+   The linked list structure allows dynamic allocation of memory and easy traversal of elements. 
+
+## Installation
+gcc compiler needs to be present .
+Any code editor can be used to view the output. 
+
+## Usage
+1. Book a ticket:books ticket based on the input age.
+2. cancel:cancels the ticket booked based on the input registration number.
+3. Display passenger details: display the details of passengers. 
+4.check avilability: prints the number of seats available for booking.
+5. exit: exits from the main function.
