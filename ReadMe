@@ -19,18 +19,18 @@ Installation
 2. Use any code editor to view and modify the source code.
 3. Compile the code using the GCC compiler.
 
-## Usage
-Run the using gcc compiler , 
+Usage
+Run the Railway.c file using gcc compiler , 
 1. Book a Ticket: Books a ticket based on the passenger's age.
 2. Cancel: Cancels the booked ticket based on the input registration number.
 3. Display Passenger Details: Displays the details of passengers.
 4. Check Availability: Prints the number of seats available for booking.
 5. Exit: Exits from the main function.
 
-## Contributing
+Contributing
 Contributions are welcome! If you'd like to contribute to the project, please fork the repository and submit a pull request.
 
-## Contact
+Contact
 For any questions or feedback, please contact saranyakoya@gmail.com.
 
 
