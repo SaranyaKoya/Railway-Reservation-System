@@ -20,7 +20,7 @@ Installation
 3. Compile the code using the GCC compiler.
 
 Usage
-Run the Railway.c file using gcc compiler , 
+Run the railway.c file using gcc compiler , 
 1. Book a Ticket: Books a ticket based on the passenger's age.
 2. Cancel: Cancels the booked ticket based on the input registration number.
 3. Display Passenger Details: Displays the details of passengers.
